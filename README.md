@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoshanKrO7
-- 👀 I’m interested in Front End Development, JavaScript, Data Analytics, 
+- 👀 I’m interested in Front End Development, JavaScript, Data Analytics, .NET Technology
 - 🌱 I’m currently learning AngularJS,NodeJS
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me Roshankumarrk7488@gmail.com
