@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoshanKrO7
 - 👀 I’m interested in Front End Development, JavaScript, Data Analytics, .NET Technology
 - 🌱 I’m currently learning AngularJS,NodeJS
-- 💞️ I’m looking to collaborate on Full Stack Development
+- 💞️ I’m looking to collaborate on Full Stack Development Projects
 - 📫 How to reach me Roshankumarrk7488@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Riding Bikes playing Badminton
