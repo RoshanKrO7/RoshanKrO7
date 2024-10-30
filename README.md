@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankro7" alt="roshankro7" /></a> </p>
 
-- 🔭 I’m currently working on Hospital operation scheduler [To My Project](https://roshankro7.github.io/Operation-Sceduler-Website/index.html)
+- 🔭 I’m currently working on DiGiHealth PWA [To My Project](https://roshankro7.github.io/Operation-Sceduler-Website/index.html)
 
 - 🌱 I’m currently learning **Angular.JS, Vue.JS**
 
